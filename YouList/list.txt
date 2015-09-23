@@ -1,0 +1,18 @@
+﻿<!--
+Youtube-Vido-Id von YouTube-Link kopieren und zwischen <ID> und </ID>
+in diese Liste eintragen.
+Die Tags <IDs> und </IDs> nicht löschen.
+
+:YouTube-Link:
+https://www.youtube.com/watch?v=kKkiaSzTeNQ
+                                ^    ID    ^
+:Eintrag:
+<IDs>
+	<ID>kKkiaSzTeNQ<ID>
+</IDs>
+-->
+
+
+<IDs>     <!-- NICHT LÖSCHEN -->
+	<ID></ID>
+</IDs>    <!-- NICHT LÖSCHEN -->

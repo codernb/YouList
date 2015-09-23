@@ -1,0 +1,25 @@
+﻿<!--
+Youtube-Vido-Id von YouTube-Link kopieren und zwischen <ID> und </ID>
+in diese Liste eintragen.
+Die Tags <IDs> und </IDs> nicht löschen.
+
+:YouTube-Link:
+https://www.youtube.com/watch?v=kKkiaSzTeNQ
+                                ^    ID    ^
+:Eintrag:
+<IDs>
+	<ID>kKkiaSzTeNQ<ID>
+</IDs>
+-->
+
+
+<IDs><!-- NICHT LÖSCHEN -->
+	<ID></ID>                   <!-- Leere Einträge werden übersprungen. -->
+	<ID>cX4Jgki_UF0</ID>
+	<ID>v2AC41asdfdglnM</ID>    <!-- Fehlerhafter Eintrag. Wird rot markiert. -->
+	<ID>L4hbSW8tm2k</ID>
+	<ID></ID>
+	<ID>vC0Qt1l  vLq8</ID>      <!-- Leerzeichen hingegen werden automatisch ausgeschnitten -->
+	<ID></ID>
+	<ID></ID>
+</IDs><!-- NICHT LÖSCHEN -->
