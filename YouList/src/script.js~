@@ -21,7 +21,8 @@ function main() {
 	fileField.addEventListener('drop', handleFile, false);
 	var lastFileName = $.cookie(cookieName);
 	if (lastFileName != undefined) {
-		$.get("lists/" + lastFileName)
+		alert(lastFileName);
+		$.get(lastFileName)
 		.done(function() {
 			fileName = lastFileName;
 			loadPlayer();
