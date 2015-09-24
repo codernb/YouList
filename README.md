@@ -35,4 +35,3 @@ Einträge, welche nicht auf Webseiten eingebettet werden dürfen,
 werden nach kurzer Zeit übersprungen.
 
 Viel Spass^^
-
